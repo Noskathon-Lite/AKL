@@ -1,0 +1,8 @@
+20250111	18:43:45	b2785f52-566e-496c-80f3-707a4405595c	Error: Not allowed by CORS
+20250111	19:16:17	eff5d024-71fc-4b4d-8c13-d26531f41608	Error: Not allowed by CORS
+20250111	19:19:15	eff1fed1-f00c-4142-80d6-b39a56544ca3	Error: Not allowed by CORS
+20250111	19:19:27	46c26887-f3ed-46e2-aeaa-fc6e0e811343	Error: Not allowed by CORS
+20250111	19:23:15	4092c350-5d78-44fb-9483-8d90bfd4f24b	Error: Not allowed by CORS
+20250113	09:45:34	451285e5-fe65-4bb4-8077-c7fec479fd14	TypeError: Cannot read properties of undefined (reading 'username')
+20250113	09:45:38	6fe80799-ffd8-4a58-8460-ba24ef3fc14c	TypeError: Cannot read properties of undefined (reading 'username')
+20250113	09:48:06	b2915347-1692-40d6-ae1c-dd7fef329390	TypeError: Cannot read properties of undefined (reading 'username')
